@@ -13,11 +13,7 @@ I'm Rifandani. A React Enthusiast from Balikpapan (Indonesia). I'm comfortable w
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-<img align="center" height='130px' src="https://github-readme-stats.vercel.app/api?username=rifandani&show_icons=true&include_all_commits=true&line_height=21" />
-
-<br/>
-
-<img align="center" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifandani&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=rifandani&show_icons=true&include_all_commits=true&line_height=21" /> <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifandani&layout=compact" />
 
 <br/>
 
