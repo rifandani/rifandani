@@ -32,76 +32,62 @@ Frontend Engineer. Prefer to keep learning, continue challenging myself, and do 
 ![Nest](https://img.shields.io/badge/Nest-Backend-E10098?style=for-the-badge&logo=nestjs)
 ![Docker](https://img.shields.io/badge/Docker-Tool-2496ED?style=for-the-badge&logo=docker)
 
-<h2 align="center">
-  🌍 Project
-</h2>
+## 🌍 Project
 
-<h3 align="center">
-  `regen` - React Codegen CLI
-</h3>
+### `@rifandani/regen`
 
-<p align="center">
-  A Command Line Interface (CLI) to generate React components, hooks, view model template, store, etc. Source code <a href="https://github.com/rifandani/regen">here</a>.
-</p>
+A Command Line Interface (CLI) to generate React components, hooks, view model template, store, etc. [Source code](https://github.com/rifandani/regen).
 
 ---
 
-<h3 align="center">
-  React Codegen CLI
-</h3>
+### `@rifandani/nxact-hooks`
 
-<p align="center">
-  A collection of common useful lodash-like utils. Source code <a href="https://github.com/rifandani/nxact">here</a>.
-</p>
+A collection of common useful react hooks. [Source code](https://github.com/rifandani/nxact/tree/main/libs/hooks).
 
 ---
 
-<h3 align="center">
-  Roompy
-</h3>
+### `@rifandani/nxact-ui`
+
+A collection of common useful react components. [Source code](https://github.com/rifandani/nxact/tree/main/libs/ui).
+
+---
+
+### `@rifandani/nxact-yutiriti`
+
+A collection of common useful lodash-like utils. [Source code](https://github.com/rifandani/nxact/tree/main/libs/yutiriti).
+
+---
+
+### Roompy
 
 <a href="https://roompy.vercel.app">
-  <p align="center">
-    <img src="https://i.ibb.co/vHk5H3V/roompy.png" alt="roompy - home" height="300">
-  </p>
+  <img src="https://i.ibb.co/vHk5H3V/roompy.png" alt="roompy - home" height="300">
 </a>
 
-<p align="center">
-  Open-source roommate finders platform. Developed together with <a href="https://github.com/starzs3cret">@starzs3cret</a>. Source code <a href="https://github.com/rifandani/roompy-web">here</a>.
-</p>
+Open-source roommate finders platform. Developed together with [@starzs3cret](https://github.com/starzs3cret). [Source code](https://github.com/rifandani/roompy-web).
 
-<p align="center">
-  <a href="https://discord.gg/NZYu9K7dJf">
-    <img src="https://img.shields.io/discord/483598191074213888?style=for-the-badge" alt="roompy - discord chat by serverId" />
-  </a>
+<a href="https://discord.gg/NZYu9K7dJf">
+  <img src="https://img.shields.io/discord/483598191074213888?style=for-the-badge" alt="roompy - discord chat by serverId" />
+</a>
 
-  <a href="https://roompy.vercel.app">
-    <img src="https://img.shields.io/badge/Status-Inactive-purple.svg?style=for-the-badge&color=6D28D9" alt="roompy - status inactive" />
-  </a>
-</p>
+<a href="https://roompy.vercel.app">
+  <img src="https://img.shields.io/badge/Status-Inactive-purple.svg?style=for-the-badge&color=6D28D9" alt="roompy - status inactive" />
+</a>
 
 ---
 
-<h3 align="center">
-  Trishop
-</h3>
+### Trishop
 
 <a href="https://trishop.vercel.app">
-  <p align="center">
-    <img src="https://i.ibb.co/VtSkK1F/home.png" alt="trishop - home" height="300">
-  </p>
+  <img src="https://i.ibb.co/VtSkK1F/home.png" alt="trishop - home" height="300">
 </a>
 
-<p align="center">
-  Free and open-source e-commerce platform for small business, who wanted to find customers and sells their products online. Source code <a href="https://github.com/rifandani/trishop">here</a>.
-</p>
+Free and open-source e-commerce platform for small business, who wanted to find customers and sells their products online. [Source code](https://github.com/rifandani/trishop).
 
-<p align="center">
-  <a href="https://discord.gg/W9gPJ6kUPY">
-    <img src="https://img.shields.io/discord/483598191074213888?style=for-the-badge" alt="trishop - discord chat by serverId" />
-  </a>
+<a href="https://discord.gg/W9gPJ6kUPY">
+  <img src="https://img.shields.io/discord/483598191074213888?style=for-the-badge" alt="trishop - discord chat by serverId" />
+</a>
 
-  <a href="https://trishop.vercel.app">
-    <img src="https://img.shields.io/badge/Status-Inactive-brown.svg?style=for-the-badge&color=D5A85A" alt="trishop - status inactive" />
-  </a>
-</p>
+<a href="https://trishop.vercel.app">
+  <img src="https://img.shields.io/badge/Status-Inactive-brown.svg?style=for-the-badge&color=D5A85A" alt="trishop - status inactive" />
+</a>
